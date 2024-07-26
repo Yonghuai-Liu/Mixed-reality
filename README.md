@@ -1,2 +1,2 @@
 # Mixed-reality
-This is a place for leanring AR/VR/MR 
+This is a place for learning AR/VR/MR 
